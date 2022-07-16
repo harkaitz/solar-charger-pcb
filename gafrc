@@ -1,0 +1,3 @@
+;; -- auto-geda-gafrc --
+(component-library "./syms")
+;; -- auto-geda-gafrc --

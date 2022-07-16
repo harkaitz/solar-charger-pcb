@@ -1,0 +1,12 @@
+sw	U1-12 L1-2 C1-2 
+unnamed_net7	U1-11 C1-1 D2-2 
+unnamed_net6	U1-7 R4-1 R5-2 
+unnamed_net5	U1-3 R3-1 
+in_reg	U1-2 R2-2 R1-1 
+in	U1-1 C3-2 R3-2 R1-2 D1-2 
+out	U1-10 U1-9 L1-1 C2-2 D2-1 R4-2 JB-1 
+GND	C3-1 U1-6 U1-13 R2-1 C2-1 R5-1 JB-2 J4-2 
+unnamed_net4	J4-1 J3-2 
+unnamed_net3	J3-1 J2-2 
+unnamed_net2	D1-1 J1-1 
+unnamed_net1	J2-1 J1-2 

@@ -1,0 +1,6 @@
+;; -- auto-geda-gschemrc --
+; Set autonumbering.
+(load (string-append geda-data-path "/scheme/auto-uref.scm"))
+(add-hook! add-component-hook auto-uref)
+(add-hook! copy-component-hook auto-uref)
+;; -- auto-geda-gschemrc --
